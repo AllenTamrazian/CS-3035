@@ -21,7 +21,7 @@ computing requirements appropriate to their solutions.
 <br>-Describe the concepts and design issues involving language compilation and interpretation.
 <br>-Describe the concepts and design issues involving variables, the different attributes of variables.
 <br>-Describe the concepts and design issues involving data types for different languages.
-<br>-Describe the process of defining and running subprograms.●
+<br>-Describe the process of defining and running subprograms.
 <br>-Describe concepts and design issues involving the formal and actual parameters of
 subprograms.
 <br>-Describe basic operation of a call stack.
