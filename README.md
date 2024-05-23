@@ -1,4 +1,4 @@
-# CS-3035 - Programming Paradigms
+# CS3035 - Programming Paradigms
 
 <h1>Course Description</h1>
 <h2>University Catalog Description:</h2>
