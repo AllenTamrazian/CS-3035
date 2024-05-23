@@ -8,7 +8,7 @@ Graded ABC/NC.</p>
 <p>CS 3035 consists of a ten-week unit that covers material concerning programming paradigms and the features of several important programming languages and a five-week unit in which we will study functional programming in more depth using Kotlin.</p>
 <h1>Course Objectives/Outcomes</h1>
 <p>The Student Learning Outcomes that are addressed by the course are:
-\n-SLO #1. Students will be able to apply concepts and techniques from computing and
+  -SLO #1. Students will be able to apply concepts and techniques from computing and
 mathematics to both theoretical and practical problems.
 -SLO #2. Students will be able to demonstrate fluency in at least one programming language and acquaintance with at least three more.
 -SLO #3. Students will have a strong foundation in the design, analysis, and application of
