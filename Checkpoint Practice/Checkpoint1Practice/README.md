@@ -1,3 +1,4 @@
+<h1><b>Write a C application that creates an array of three instances of a struct that represents a car.  Calculate and print the average miles per gallon of the cars.</b></h1>
 <ol>
   <li>(20 points) Write a header file that a) defines a struct called car, which has a double for the weight of the car and a double for its gas mileage (miles per gallon) and b) declares a prototype for a function called get_avg_mpg, which takes a pointer to a car and an int for the length of an array, and returns a double.</li>
   <li>Write C code that does the following: 
