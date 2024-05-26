@@ -1,25 +1,2 @@
-<div class="show-content user_content clearfix enhanced" data-resource-type="wiki_page.body" data-resource-id="1925923" data-lti-page-content="true">
-  
-    <h1 class="page-title">Ungraded Exercises: C, Part II<button aria-haspopup="dialog" class="ally-accessible-versions ally-add-tooltip" data-id="page:1925923" data-ally-content-id="page:1925923" data-ally-richcontent-eid="page:1925923" aria-label="Alternative formats" title="Alternative formats">
-    <span class="ally-prominent-af-download-button"></span>
-</button></h1>
-  
-  
-  
-    <p>1) A) Write a void function that</p>
-<ul>
-<li>takes an array of ints and an int for the length of the array as parameters</li>
-<li>replaces all the values in the array with the value 42. Use array index syntax, eg, my_array[2] = 13</li>
-</ul>
-<p>&nbsp;&nbsp; B) Write a main() that</p>
-<ul>
-<li>creates an array of ints and prints its address (printf code "%p" and supply the variable name)</li>
-<li>prints all the values in the array without initializing it first</li>
-<li>calls the function from part 1A</li>
-<li>prints out the address of the array and all the values in it again.</li>
-</ul>
-<p>2) Try out switch statements (for example, use a switch to print out whether an int is evenly divisible by 2, 3, 5, or none of these) and while and do..while loops in C (for example, use the loops to count to 100 and print out the values).</p>
-<p>&nbsp;</p>
-  
-<div id="assign-to-mount-point"></div>
-</div>
+<div class="description user_content enhanced" data-resource-type="assignment.body" data-resource-id="1746370"><p>Write a C function that takes two integer parameters and uses a loop to count from the lower value to the higher, using each value of the loop counter as a length in miles and printing it with the corresponding length in KM, with three digits after the decimal point.&nbsp; With a little thought, you can see how to count <strong>up</strong> from the lower to the higher values irrespective of which order they are received in (that is, the result should be the same if the parameters are 1, 100 as if they are 100, 1. The conversion formula is KM = miles / .609.&nbsp; For <strong>each</strong> value, the function should print out (using printf with format codes %d for int and %.3f for double with three digits after the decimal point) a message like this:<br>1 mile = 1.609 KM<br><br>Then write a main function that calls the conversion function for several different pairs of values (eg, for 1, 100, then 2, 150, then something else).&nbsp; You may hard-code the data in the function calls from main; you do not need to take user input..</p>
+<p>Turn in your code and a screen shot or cut-and-paste of the output.</p></div>
