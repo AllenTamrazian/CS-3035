@@ -1,9 +1,4 @@
-
-  
-    <h1 class="page-title">Ungraded Exercises: C, Part III</h1>
-  
-  
-  
+<h1 class="page-title">Ungraded Exercises: C, Part III</h1>
 <p>1a) write a program in C that uses scanf to take input for two doubles and uses printf to print the result.&nbsp; Here is output from my solution:<br>3.141590 + 7.432100 = 10.573690</p>
 <p>Note: use the format code lf for doubles</p>
 <p>1b) modify the program from 1a so that it prints the result of the addition to 3 digits past the decimal point.&nbsp; Use the code %.3lf</p>
