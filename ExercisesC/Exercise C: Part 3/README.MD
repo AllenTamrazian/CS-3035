@@ -1,8 +1,6 @@
 
   
-    <h1 class="page-title">Ungraded Exercises: C, Part III<button aria-haspopup="dialog" class="ally-accessible-versions ally-add-tooltip" data-id="page:1792505" data-ally-content-id="page:1792505" data-ally-richcontent-eid="page:1792505" aria-label="Alternative formats" title="Alternative formats">
-    <span class="ally-prominent-af-download-button"></span>
-</button></h1>
+    <h1 class="page-title">Ungraded Exercises: C, Part III</h1>
   
   
   
