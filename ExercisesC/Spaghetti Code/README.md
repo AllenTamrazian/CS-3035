@@ -3,11 +3,15 @@
 <div id="assign-to-mount-point"></div>
 
 <h2>Spaghettic Code with Line Numbers</h2>
-<div>
+<p>
 10 LET P = 3.1416
+<br>
 20 LET r = 2
+  <br>
 30 LET x = 50
+  <br>
 40 GOTO 140
+  <br>
 50 LET r = 6
 60 LET x = 80
 70 GOTO 140
@@ -18,4 +22,4 @@
 140 LET c = r * 2 * P
 150 PRINT "circumference of circle with radius "; r; " is "; c
 160 GOTO x
-</div>
+</p>
