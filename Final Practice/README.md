@@ -1,12 +1,8 @@
-<div class="show-content user_content clearfix enhanced" data-resource-type="wiki_page.body" data-resource-id="1948400" data-lti-page-content="true">
-  
-    <h1 class="page-title">Sample Exam Part II: Code on Paper<button aria-haspopup="dialog" class="ally-accessible-versions ally-add-tooltip" data-id="page:1948400" data-ally-content-id="page:1948400" data-ally-richcontent-eid="page:1948400" aria-label="Alternative formats" title="Alternative formats">
-    <span class="ally-prominent-af-download-button"></span>
-</button></h1>
+<h1 class="page-title">Sample Exam Part II: Code on Paper</h1>
   
   
   
-    <p>On the actual exam, this part will be closed-book, closed-notes, code-on-paper.&nbsp; For the practice exam, you may want to write the code on paper for the best practice.</p>
+<p>On the actual exam, this part will be closed-book, closed-notes, code-on-paper.&nbsp; For the practice exam, you may want to write the code on paper for the best practice.</p>
 <p>&nbsp;</p>
 <p><strong>Python </strong>programming problem, 25 points</p>
 <p>Write a Cryptid Abstract Base Class and implement it with a Yeti class.&nbsp;</p>
