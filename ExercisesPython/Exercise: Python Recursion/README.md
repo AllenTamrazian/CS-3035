@@ -1,0 +1,12 @@
+<div class="description user_content enhanced" data-resource-type="assignment.body" data-resource-id="1746789"><p>Write recursive Python functions to do the following tasks. &nbsp;You can make them member functions of a class or simply write them in a top-level script. &nbsp;Each function should take one parameter. &nbsp; You can write helper functions to call the recursive functions is you'd like. &nbsp;Take user input for the parameters. &nbsp;Note that, while I discuss the input as a string, these methods could easily be made to work with lists or various other types. &nbsp;There are other ways to accomplish these tasks, but this is an exercise in writing recursive code.</p>
+<p>1. &nbsp;Count the letters in the string by stripping the first letter recursively and returning a count, which increases as the recursion unwinds. &nbsp;Make sure this works with a string of length 0. &nbsp;Return the int length.</p>
+<p>2. Reverse the letters in the string. &nbsp;Do this by stripping off the first letter in each recursive call, then adding them them to end of a new string as the recursion unwinds. &nbsp;Return the reversed string.</p>
+<p>3. Determine whether the string is a palindrome (like 'Madam, I'm Adam'. &nbsp;Note that there are other ways to do this, but do it recursively, but stripping the first and last letters in each instance of the function and comparing them for equality. &nbsp;Make sure the termination condition for the recursion works correctly for strings of both odd and even lengths. &nbsp;Convert all letters to lower case with lower() and use isalpha() to ignore punctuation and blanks. &nbsp;Note that you can use negative indices to access items starting with the end of a string or list (eg, my_string[-1]). &nbsp;Return a boolean.</p>
+<p>&nbsp;</p>
+<p>Hint: this script will take an input string, print it, and make recursive calls with successively shorter substrings. &nbsp;Note the use of list slicing.</p>
+<p>import sys</p>
+<p>def main():<br>&nbsp; &nbsp; data = input('Enter a string: ')<br>&nbsp; &nbsp; attrition(data)</p>
+<p>def attrition(data):<br>&nbsp; &nbsp; print(data)<br>&nbsp; &nbsp; if(len(data)) == 0:<br>&nbsp; &nbsp; &nbsp; &nbsp; return<br>&nbsp; &nbsp; else:<br>&nbsp; &nbsp; &nbsp; &nbsp; attrition(data[1:])<br>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>if __name__ == "__main__":<br>&nbsp; &nbsp; sys.exit(main())</p>
+<p>&nbsp;</p>
+<p>Turn in your .py file and the output from a sample run</p>
+<p>&nbsp;</p></div>
