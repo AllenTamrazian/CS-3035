@@ -1,10 +1,5 @@
-
-  
-    <h1 class="page-title">Ungraded Exercises: C, Part II</h1>
-  
-  
-  
-    <p>1) A) Write a void function that</p>
+<h1 class="page-title">Ungraded Exercises: C, Part II</h1>
+<p>1) A) Write a void function that</p>
 <ul>
 <li>takes an array of ints and an int for the length of the array as parameters</li>
 <li>replaces all the values in the array with the value 42. Use array index syntax, eg, my_array[2] = 13</li>
