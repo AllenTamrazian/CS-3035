@@ -1,3 +1,4 @@
+<h1 class="page-title">Ungraded Exercises: C, Part III</h1>
 <p>3) Write a program in C that asks the user for a student's GPA (double), shoe size(int), and first initial (char), separated by commas in one line of input, assigns those values to variables, and prints them out separately.&nbsp; Here is output from my solution:</p>
 <p>Please enter a student's GPA, shoe size, and first initial, separated by commas: 3.27,11,X<br>The student's GPA is 3.270, shoe size is 11, and first initial is X</p>
 <p>Use the format code %c for the char.<br>Hint: to see how to handle the commas, see the lecture example in which I separate the digits of pi before and after the decimal point</p>
