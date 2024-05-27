@@ -1,62 +1,4 @@
-<div id="assignment_show" class="assignment content_underline_links" data-lti-page-content="true">
-    <!--Student View-->
-    <div class="assignment-title">
-      <div class="title-content">
-        <h1 class="title">
-          Homework 3: Pancake House
-        <button aria-haspopup="dialog" class="ally-accessible-versions ally-add-tooltip" data-id="assignment:1749521" data-ally-content-id="assignment:1749521" data-ally-richcontent-eid="assignment:1749521" aria-label="Alternative formats" title="Alternative formats">
-    <span class="ally-prominent-af-download-button"></span>
-</button></h1>
-      </div>
-      <div class="assignment-buttons">
-        
-
-        
-      </div>
-    </div>
-    
-<ul class="student-assignment-overview">
-  <li>
-    <span class="title">Due</span>
-    <span class="value">
-          <span class="date_text">
-                <span class="display_date">Apr 8</span> by 
-                <span class="display_time">10:55am</span>
-          </span><!--
-        --></span>
-  </li>
-    <li>
-      <span class="title">Points</span>
-      <span class="value">100</span>
-    </li>
-    <li>
-      <span class="title">Submitting</span>
-      <span class="value">a file upload</span>
-    </li>
-      <li>
-        <span class="title">File Types</span>
-        <span class="value">py, txt, png, bmp, and jpg</span>
-      </li>
-  
-  <li>
-    <span class="title">Available</span>
-    <span class="value">
-        until Apr 9 at 11:59pm
-    </span>
-  </li>
-
-  <div class="clear"></div>
-</ul>
-
-  <div class="clear"></div>
-
-    This assignment was locked Apr 9 at 11:59pm.
-
-  <div class="clear"></div>
-
-
-
-  <div class="description user_content enhanced" data-resource-type="assignment.body" data-resource-id="1749521"><p><strong>Write a multithreaded Python OOP application that models a pancake restaurant with multiple cooks and multiple customers, each of which runs in its own thread. </strong></p>
+<div class="description user_content enhanced" data-resource-type="assignment.body" data-resource-id="1749521"><p><strong>Write a multithreaded Python OOP application that models a pancake restaurant with multiple cooks and multiple customers, each of which runs in its own thread. </strong></p>
 <p>Notes:</p>
 <ul>
 <li>For this assignment, you will need to generate pseudorandom numbers.&nbsp; Use this import: <em>from random import random,</em> and call the method random(), which generates a pseudorandom floating point value between 0 and 1.&nbsp; Multiply it by the maximum value you want. For example, the generate a pseudorandom number between 0 and 3, call random() and multiply the result by 3.</li>
@@ -92,11 +34,3 @@
 <p>6 uneaten pancakes<br>Camillo eats Pancake # 58<br>Cathal eats Pancake # 57<br>Carlos cooks Pancake # 59<br>Cathy cooks Pancake # 60<br>Cathy cooks Pancake # 61<br>Carrie eats Pancake # 61<br>6 uneaten pancakes<br>Pancake # 60<br>Pancake # 59<br>Pancake # 45<br>Pancake # 24<br>Pancake # 22<br>Pancake # 21</p>
 <p>&nbsp;</p>
 <p>Submit all your code in one file, as well as a cut and paste or screenshot of the output from running your driver.<br>&nbsp; &nbsp;</p></div>
-
-
-  <div style="display: none;">
-    <span class="timestamp">1712598900</span>
-    <span class="due_date_string">04/08/2024</span>
-    <span class="due_time_string">10:55am</span>
-  </div>
-</div>
