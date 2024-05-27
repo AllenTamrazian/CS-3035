@@ -1,4 +1,4 @@
-<div class="show-content user_content clearfix enhanced" data-resource-type="wiki_page.body" data-resource-id="1792505" data-lti-page-content="true">
+
   
     <h1 class="page-title">Ungraded Exercises: C, Part III<button aria-haspopup="dialog" class="ally-accessible-versions ally-add-tooltip" data-id="page:1792505" data-ally-content-id="page:1792505" data-ally-richcontent-eid="page:1792505" aria-label="Alternative formats" title="Alternative formats">
     <span class="ally-prominent-af-download-button"></span>
@@ -6,7 +6,7 @@
   
   
   
-    <p>1a) write a program in C that uses scanf to take input for two doubles and uses printf to print the result.&nbsp; Here is output from my solution:<br>3.141590 + 7.432100 = 10.573690</p>
+<p>1a) write a program in C that uses scanf to take input for two doubles and uses printf to print the result.&nbsp; Here is output from my solution:<br>3.141590 + 7.432100 = 10.573690</p>
 <p>Note: use the format code lf for doubles</p>
 <p>1b) modify the program from 1a so that it prints the result of the addition to 3 digits past the decimal point.&nbsp; Use the code %.3lf</p>
 <p>&nbsp;</p>
@@ -22,4 +22,3 @@
 <p>uses <em><strong>pointer arithmetic</strong> </em>and<em> </em>printf to show the values from the array.&nbsp; Note that you need to print the data the pointer points to, not the pointer itself, so you will need the dereferencing *.&nbsp; For example, if the pointer is called next, you specify what to print with *next, that is, "the data next points to".</p>
   
 <div id="assign-to-mount-point"></div>
-</div>
