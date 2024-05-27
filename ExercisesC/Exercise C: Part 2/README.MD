@@ -1,8 +1,6 @@
-<div class="show-content user_content clearfix enhanced" data-resource-type="wiki_page.body" data-resource-id="1925923" data-lti-page-content="true">
+
   
-    <h1 class="page-title">Ungraded Exercises: C, Part II<button aria-haspopup="dialog" class="ally-accessible-versions ally-add-tooltip" data-id="page:1925923" data-ally-content-id="page:1925923" data-ally-richcontent-eid="page:1925923" aria-label="Alternative formats" title="Alternative formats">
-    <span class="ally-prominent-af-download-button"></span>
-</button></h1>
+    <h1 class="page-title">Ungraded Exercises: C, Part II</h1>
   
   
   
@@ -22,4 +20,3 @@
 <p>&nbsp;</p>
   
 <div id="assign-to-mount-point"></div>
-</div>
